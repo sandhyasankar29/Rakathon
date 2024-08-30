@@ -1,0 +1,15 @@
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8503
+  Network URL: http://10.196.221.232:8503
+
+/Users/sandhyas/Documents/Semester3/Hackathon/Rakuten-Hackathon/frontend.py:97: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  formatted_data_df = data_df.applymap(
+/Users/sandhyas/Documents/Semester3/Hackathon/Rakuten-Hackathon/frontend.py:100: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  formatted_data_df = formatted_data_df.applymap(
+/Users/sandhyas/Documents/Semester3/Hackathon/Rakuten-Hackathon/frontend.py:132: FutureWarning: DataFrame.applymap has been deprecated. Use DataFrame.map instead.
+  formatted_data_df = df.applymap(clean_text)
+Updated the last row with new information.
+  Stopping...
+  Stopping...
